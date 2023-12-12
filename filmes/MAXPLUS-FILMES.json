@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Titanic",
+        "genre": "Romance",
+        "release_year": 1997,
+        "director": "Christopher Nolan",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg",
+        "poster": "https://gkpb.com.br/wp-content/uploads/2022/06/yDI6D5ZQh67YU4r2ms8qcSbAviZ-e1655990092687.jpg",
+        "link":"http://fhd1.mflixhd.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0120338.mp4"
+    },
+    {
+        "id": 2,
+        "title": "O Poderoso Chefão",
+        "genre": "Drama",
+        "release_year": 1972,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "id": 3,
+        "title": "Matrix",
+        "genre": "Ação",
+        "release_year": 1999,
+        "director": "The Wachowskis"
+    },
+    {
+        "id": 4,
+        "title": "Efeito Borboleta",
+        "genre": "Suspense",
+        "release_year": 2004,
+        "director": "Eric Bress, J. Mackye Gruber"
+    },
+    {
+        "id": 5,
+        "title": "Cidade de Deus",
+        "genre": "Drama",
+        "release_year": 2002,
+        "director": "Fernando Meirelles, Kátia Lund"
+    }
+]
+
