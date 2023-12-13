@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "title": "Titanic",
         "genre": "Romance | Aventura",
         "year": 1997,
@@ -10,32 +10,14 @@
         "link":"http://fhd1.mflixhd.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0120338.mp4"
     },
     {
-        "id": 2,
-        "title": "O Poderoso Chefão",
-        "genre": "Drama",
-        "release_year": 1972,
-        "director": "Francis Ford Coppola"
-    },
-    {
-        "id": 3,
-        "title": "Matrix",
-        "genre": "Ação",
-        "release_year": 1999,
-        "director": "The Wachowskis"
-    },
-    {
-        "id": 4,
-        "title": "Efeito Borboleta",
-        "genre": "Suspense",
-        "release_year": 2004,
-        "director": "Eric Bress, J. Mackye Gruber"
-    },
-    {
-        "id": 5,
-        "title": "Cidade de Deus",
-        "genre": "Drama",
-        "release_year": 2002,
-        "director": "Fernando Meirelles, Kátia Lund"
+        "id": 1,
+        "title": "Independence Day: O Ressurgimento",
+        "genre": "Ficção científica/Ação",
+        "year": 2016,
+        "sinopse": "Duas décadas depois do devastador ataque alienígena do Dia da Independência, a Terra enfrenta uma nova ameaça que vem diretamente do espaço. Uma nova geração de pilotos é convocada para combater os inimigos e garantir a liberdade da humanidade.",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpghttps://upload.wikimedia.org/wikipedia/pt/5/52/Independence_Day_Resurgence_2016.jpg",
+        "poster": "https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2016/06/23/651756/20160624154919756632u.jpg",
+        "link":"https://drive.google.com/file/d/1xpsxpg7EEsHg2-bZmMFzDZ4d8RNUPLz9/preview"
     }
-]
 
+]
