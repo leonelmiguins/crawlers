@@ -13,12 +13,32 @@
     {
         "id": 1,
         "title": "Efeito Borboleta",
-        "genre": " Ficção científica | Thriller",
+        "genre": "Ficção científica | Thriller",
         "year": 2004,
         "sinopse": "O estudante universitário Evan Treborn está aflito com dores de cabeça tão fortes que frequentemente desmaia. Enquanto está inconsciente, Evan pode viajar de volta no tempo para momentos de dificuldades na infância. Ele também pode alterar o passado para os amigos, como Kayleigh, que foi molestada pelo pai. Porém ao mudar o passado, ele pode alterar o presente, o que leva Evan a se encontrar em um pesadelo de realidades alternativas, incluindo uma onde ele está preso.",
         "capa": "https://i.pinimg.com/564x/db/b4/a8/dbb4a86d7183b91696c82febb112b9ed.jpg",
         "poster": "https://hqscomcafe.com.br/wp-content/uploads/2021/10/Como-e-o-final-do-efeito-borboleta.jpg",
         "link":"https://drive.google.com/file/d/1QcExhEJf8jVP4dR_L2u0DH31cceLREQn/preview"
+    },
+    {
+        "id": 2,
+        "title": "Oppenheimer",
+        "genre": "Thriller | Suspense",
+        "year": 2023,
+        "sinopse": "O físico J. Robert Oppenheimer trabalha com uma equipe de cientistas durante o Projeto Manhattan, levando ao desenvolvimento da bomba atômica.",
+        "capa": "https://br.web.img2.acsta.net/pictures/23/05/08/10/29/0695770.jpg",
+        "poster": "https://aventurasnahistoria.uol.com.br/media/_versions/hard_news/filme2_7Nzt5Kn_widelg.jpg",
+        "link":"https://drive.google.com/file/d/1BFPEFJ9QkiusO-qQQcxjQBWXNyo5EV7P/preview"
+    },
+    {
+        "id": 3,
+        "title": "Fale Comigo",
+        "genre": "Terror | Mistério",
+        "year": 2023,
+        "sinopse": "Um grupo de amigos descobre uma mão embalsamada que lhes permite conjurar espíritos. Viciado na emoção, um deles vai longe demais e abre a porta para o mundo espiritual.",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/07/27/16/18/3077587.jpg",
+        "poster": "https://miro.medium.com/v2/resize:fit:1200/0*MADp_IPwPGaQwwQB.jpg",
+        "link":"https://drive.google.com/file/d/1ken-pMdWsy8hfJNrIidVqZDZKv29Y4lk/preview"
     }
 
 ]
