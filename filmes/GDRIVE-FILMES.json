@@ -39,6 +39,46 @@
         "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/07/27/16/18/3077587.jpg",
         "poster": "https://miro.medium.com/v2/resize:fit:1200/0*MADp_IPwPGaQwwQB.jpg",
         "link":"https://drive.google.com/file/d/1ken-pMdWsy8hfJNrIidVqZDZKv29Y4lk/preview"
+    },
+    {
+        "id": 4,
+        "title": "O Diabo Veste Prada",
+        "genre": "Comédia",
+        "year": 2006,
+        "sinopse": "Andy é uma jovem que consegue um emprego na renomada 'Runway Magazine', a mais importante revista de moda de Nova York. Ela passa a trabalhar como assistente de Miranda Priestly, editora-chefe da revista.",
+        "capa": "https://ieneagrama.com.br/wp-content/uploads/2020/08/O_diabo_veste_prada.jpg",
+        "poster": "https://escutai.com/wp-content/uploads/2021/08/o-diabo-vestee-prada-the-devil-wears-pradescutai-curiosidades-1-1160x680.jpg",
+        "link":"https://drive.google.com/file/d/1nv3ggIR2nKDDF84drNTzUBMNGDurkbOZ/preview"
+    },
+    {
+        "id": 5,
+        "title": "Programa de Proteção para Princesas",
+        "genre": "Infantil | Comédia",
+        "year": 2009,
+        "sinopse": "A princesa Rosalinda é ameaçada por um ditador. Ela é colocada no Programa de Proteção para Princesas e adota um disfarce de uma jovem pobre.",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/94/25/66/20314293.jpg",
+        "poster": "https://br.web.img3.acsta.net/newsv7/20/07/02/17/38/4050095.jpg",
+        "link":"https://drive.google.com/file/d/1ug1tLF906xUsdmMQEBc3Ux96HAQ7EF3a/preview"
+    },
+    {
+        "id": 6,
+        "title": "A Pele Que Habito",
+        "genre": "Terror | Ficção Científica",
+        "year": 2011,
+        "sinopse": "Um evento traumático arruina o estranho relacionamento entre um cirurgião plástico e a mulher que ele mantém presa em sua luxuosa mansão.",
+        "capa": "https://assets.mubicdn.net/images/artworks/187750/images-original.png?1621561981.jpg",
+        "poster": "https://www.pjf.mg.gov.br/noticias/arquivo/15%2012%20clube%20do%20professor_142830.jpg",
+        "link":"https://drive.google.com/file/d/1gW4Rm3bZdHRE92gbYbi6PM0EwCz0Dphy/preview"
+    },
+    {
+        "id": 7,
+        "title": "Fuga da Meia-Noite",
+        "genre": "Terror | Suspense",
+        "year": 2011,
+        "sinopse": "Kyung-mi, uma jovem surda, testemunha um dos ataques do serial killer Do-sik. Agora caçada pelo criminoso, ela se envolve em um perigoso jogo de gato e rato que também ameaça sua mãe.",
+        "capa": "https://br.web.img3.acsta.net/pictures/22/03/29/19/34/3457881.png",
+        "poster": "https://br.web.img3.acsta.net/r_1280_720/pictures/22/04/07/14/59/1178535.jpg",
+        "link":"https://drive.google.com/file/d/1oNa-T-oKCaX4rURaQaa0BcbG-0z2Jzls/preview"
     }
 
 ]
