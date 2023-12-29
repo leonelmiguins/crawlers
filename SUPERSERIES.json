@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "title": "Mr. robot",
+        "genre": "Thriller",
+        "year": 2015,
+        "sinopse": "Elliot é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê em uma encruzilhada quando é recrutado para destruir a firma que ele é pago para proteger.",
+        "cover": "https://www.aceprensa.com/wp-content/uploads/2016/05/62560-1.jpg",
+        "wallpaper": "https://static-images.lpnt.fr/cd-cw809/images/2015/07/11/1874870lpw-1878883-article-jpg_3359821_660x287.jpg",
+        "eps": {
+             "1x1": "https://download2269.mediafire.com/6vkkq4jswezgw7nzNxolzA4tEWNkUvKHBOJCo2JOEKxz0JvscnPyD6CAXN_RTWVh-caEdfugLOOPa4fbDKde_n318jzD3waQdgw-DcPVIwRd0zWm7-KDs0QD9WdHb4Is_YCIoVMdtxWEOQ_70txaYdmNYcYUltPDNdOvRxAceaqNwY4/jai3a6jweftttb5/p2-mr-robot-dub-11857322455temp1ep1.mp4",
+             "1x2": "https://download1509.mediafire.com/hhapi4brnumgvQb7Jr5eM_7FtT4dx7oSX4aMCaop5iRORkmEY07fY_ue_YUT9TLrDg-g6rLptQcfSxyhkFa40jmfUpmWGve2YhSNpgVdLuP7hIgBojG1McDpwL3tFqfSP6Ns2WCQkhtUzrLPwryfrCfCFfszHUKM4p4jueuoUhwkPz4/qgsgh99u3rumnnp/p2-mr-robot-dub-214702950temp1ep2.mp4",
+             "1x3": "https://download1532.mediafire.com/ia4siplv7lrgEYWyPiFX-V7whkx9GuuiX3ouRJWEukYTR-YxTPmsDeN3Byr_vPHQOAnbiWElm-u3KkWF8ExLPTLtYwbMcMeIqqBpN0vuxqfrJamZkYKKQB3CoSnGxvj534TKWbO03B-n8Gkdgtj3uHs2MIBuuqsHH4bdAzw5s_MEUSs/ixmhrf5e0tjncek/p2-mr-robot-dub-390285818temp1ep3.mp4",
+             "1x4": "https://download1592.mediafire.com/xzaebw00trygp4rkGVAYmqi94OWapWu8Smf8-fkkvP01sXQk4k4Rg1ApsxcYorUclmj_C_wVTmxxV4T8tcRqa5Ub5geZUTGZAQfK_PfwjpVZHDRm28WeE-gCV0vW0Zndvq3mX_CeaYYlCs_Fgn8NLSlls6ug4hi2O4bP7nnoODUIXRw/n5mgtkyxgl84jyx/p2-mr-robot-dub-5104509117temp1ep5.mp4"
+
+            }
+    }
+    
+]
