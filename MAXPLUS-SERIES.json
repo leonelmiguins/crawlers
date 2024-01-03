@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "title": "Mr. robot",
+        "genre": "Thriller",
+        "year": 2015,
+        "sinopse": "Elliot é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê em uma encruzilhada quando é recrutado para destruir a firma que ele é pago para proteger.",
+        "cover": "https://www.aceprensa.com/wp-content/uploads/2016/05/62560-1.jpg",
+        "wallpaper": "https://static-images.lpnt.fr/cd-cw809/images/2015/07/11/1874870lpw-1878883-article-jpg_3359821_660x287.jpg",
+        "eps": {
+             "1x1": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x1.mp4",
+             "1x2": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x2.mp4",
+             "1x3": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x3.mp4",
+             "1x4": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x4.mp4",
+             "1x5": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x5.mp4",
+             "1x6": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x6.mp4",
+             "1x7": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x7.mp4",
+             "1x8": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x8.mp4",
+             "1x9": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x9.mp4",
+             "1x10": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x10.mp4",
+             "2x1": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x1.mp4",
+             "2x2": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x2.mp4",
+             "2x3": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x3.mp4",
+             "2x4": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x4.mp4",
+             "2x5": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x5.mp4",
+             "2x6": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x6.mp4",
+             "2x7": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x7.mp4",
+             "2x8": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x8.mp4",
+             "2x9": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x9.mp4",
+             "2x10": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x10.mp4",
+             "2x11": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x11.mp4",
+             "2x12": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x12.mp4"
+            }
+    }
+    
+]
