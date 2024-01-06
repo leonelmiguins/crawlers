@@ -2,11 +2,13 @@
     {
         "id": 0,
         "title": "Mr. robot",
-        "genre": "Thriller",
+        "genre": "Crime | Drama",
         "year": 2015,
+        "seasons": 4,
+        "rating": "4.9/5",
         "sinopse": "Elliot é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê em uma encruzilhada quando é recrutado para destruir a firma que ele é pago para proteger.",
         "cover": "https://www.aceprensa.com/wp-content/uploads/2016/05/62560-1.jpg",
-        "wallpaper": "https://static-images.lpnt.fr/cd-cw809/images/2015/07/11/1874870lpw-1878883-article-jpg_3359821_660x287.jpg",
+        "wallpaper": "https://www.pixelstalk.net/wp-content/uploads/images6/Mr-Robot-Wallpaper-Free-Download.jpg",
         "eps": {
              "1x1": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x1.mp4",
              "1x2": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/1x2.mp4",
@@ -30,8 +32,40 @@
              "2x10": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x10.mp4",
              "2x11": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x11.mp4",
              "2x12": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/2x12.mp4",
-             "3x1": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x1.mp4"
+             "3x1": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x1.mp4",
+             "3x2": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x2.mp4",
+             "3x3": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x3.mp4",
+             "3x4": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x4.mp4",
+             "3x5": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x5.mp4",
+             "3x6": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x6.mp4",
+             "3x7": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x7.mp4",
+             "3x8": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x8.mp4",
+             "3x9": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x9.mp4",
+             "3x10": "http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/62560/3x10.mp4"
+            }
+    },
+    {
+        "id": 1,
+        "title": "Eu, a Patroa e as Crianças",
+        "genre": "Sitcom | Comédia",
+        "year": 2001,
+        "seasons": 5,
+        "rating": "4.9/5",
+        "sinopse": "O amoroso pai de família Michael Kyle engravidou Janet quando ela ainda era uma adolescente. Os dois se casaram e tiveram três filhos, mas o fantasma de sua própria história faz com que Michael alimente um verdadeiro pavor de que o mesmo aconteça com seus filhos. Por isso, ele sonha com uma família à moda antiga, mas, na prática, vive uma realidade bem diferente. Sua mulher não é uma dona de casa exemplar, mas uma trabalhadora em ascensão; seu filho adolescente é fã dos grandes astros do rap; sua filha de 15 anos, além de não demonstrar recato, faz de tudo para impressionar os garotos; e a caçula, que não tem nada de dócil e obediente, é contestadora e esperta o suficiente para superar a argumentação do pai na maioria absoluta das vezes.",
+        "cover": "https://images.justwatch.com/poster/244597295/s332/temporada-2.jpg",
+        "wallpaper": "https://aventurasnahistoria.uol.com.br/media/uploads/entretenimento/eu_a_patroa.jpg",
+        "eps": {
+             "1x1": "http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/2692/1x1.mp4",
+             "1x2": "http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/2692/1x2.mp4",
+             "1x3": "http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/2692/1x3.mp4",
+             "1x4": "http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/2692/1x4.mp4",
+             "1x5": "http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/2692/1x5.mp4",
+             "1x6": "http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/2692/1x6.mp4",
+             "1x7": "http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/2692/1x7.mp4"
+             
             }
     }
+
+
     
 ]
